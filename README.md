@@ -55,3 +55,12 @@ class MainActivity : AppCompatActivity() {
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:viewType="line" />
+        
+        
+ ## OUTPUT 1
+ 
+ ![Github logo](https://github.com/sterlingking1990/OTPProject/blob/main/app/src/main/res/drawable/output%20pinview%201.png)
+ 
+ ## OUTPUT 2
+ 
+ ![Github logo](https://github.com/sterlingking1990/OTPProject/blob/main/app/src/main/res/drawable/output%20pinview%202.png) 
